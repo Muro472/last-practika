@@ -1,0 +1,18 @@
+{
+  "title": "Sport shop",
+  "homePageText1": "Just do it",
+  "buyInOneClick": "Buy in one click",
+  "orderNow": "Order now",
+
+  "footwear": "Footwear",
+  "clothing": "Clothing",
+  "accessories": "Accessories",
+  "protection": "Protection",
+  "nutrition": "Nutrition",
+  "electronics": "Electronics",
+  "inventory": "Inventory",
+  "basket": "Basket",
+  "termsOfUseDialog": "Terms of use",
+  "termsOfUseOne": "- All prices are including VAT, excluding postage.",
+  "termsOfUseTwo": "- Production will be shipped no later than 48 hours from the time of order"
+}
